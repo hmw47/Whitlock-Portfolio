@@ -1,1 +1,1 @@
-# whitlockportfolio.github.io
+# hmw47.github.io/whitlock-portfolio
